@@ -10,4 +10,4 @@ if (1 > 0) {
 console.log(estudante);
 
 const nome = 'João Victor';
-console.log(`Olá, meu nome é ${nome}.`); // Imprimindo uma string com uma variavel dentro 
+console.log(`Olá, meu nome é ${nome}.`); // Template string

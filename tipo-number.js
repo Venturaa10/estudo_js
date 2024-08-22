@@ -1,3 +1,4 @@
+// Nomeclatura em JS é camelCase
 // É aceito como valor numerico, numeros inteiros e numeros com ponto flutuante em JS
 const notaPrimeiroBi = 8;
 const notaSegundoBi = 6.3;
