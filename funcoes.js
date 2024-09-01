@@ -1,3 +1,7 @@
+// É possivel acessar código antes da declaração da função, logo código é executado
+exibeInfoEstudante('João Victor',10);
+exibeInfoEstudante('Vinicius',8);
+exibeInfoEstudante('Duda',6);
 
 function exibeInfoEstudante (nome, nota) {
     return `Info do estudante\nNome: ${nome}\nNota: ${nota}`;
